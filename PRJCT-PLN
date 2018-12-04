@@ -1,0 +1,26 @@
+	1. Get all packages installed
+		a. Node modules
+		b. Express
+		c. Axios
+		d. Mongoose
+		e. Dot env 
+		f. Concurrently
+		g. Nodemon 
+	2. Create react app
+		a. Modularize file structure 
+		b. Set up models
+	3. Create mongo database
+		a. Create schema 
+		b. Create collections
+		c. Create test data
+	4. Set up routes
+		a. Get back end linked to routes
+			i. Test routes with post man 
+		b. Get front end routes linked
+		c. Get materialize linked
+			i. Make sure jquery works for materialize symbols
+	5. Create basic UI for CRUD Functionality 
+		a. Get all CRUD functionality working
+	6. Get either Auth0 or another form of login authorization integrated
+	7. Start building components 
+		a. ..

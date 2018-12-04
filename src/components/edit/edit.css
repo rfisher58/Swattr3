@@ -1,0 +1,10 @@
+#editCard {
+ position: relative;
+}
+
+#editButton {
+    position: absolute;
+}
+
+
+  /* {this.props.edit ? <button id = "editButton">Edit</button>} */
